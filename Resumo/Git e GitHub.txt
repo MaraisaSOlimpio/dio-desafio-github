@@ -1,0 +1,15 @@
+INTRODUÇÃO A GIT E AO GITHUB
+
+CHAVE SSH E TOKEN
+- chave ssh: uma forma de se estabelecer uma conexão segura e encriptada entre duas máquinas, sempre uma chave pública e uma chave privada.
+
+INICIANDO O GIT E CRIANDO UM COMMIT
+- git init: iniciar o repositório
+- git add: mover arquivos e começar o versionamento e conhecer os primeiro comandos
+- git commit: criar primeiro commit
+
+CRIANDO SEU PRIMEIRO REPOSITÓRIO NO GITHUB
+- criar repositório no git
+- copiar link SSH
+- git clone e colocar o repositório na pasta 
+
